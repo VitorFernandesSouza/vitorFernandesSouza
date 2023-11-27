@@ -2,7 +2,7 @@
 <p align='center'>
 </p>
 
-<a href="https://https://www.linkedin.com/in/vitor-fernandes-b6891123a/" target="_blank">
+<a href="https://www.linkedin.com/in/vitor-fernandes-b6891123a/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank">  
 </a>  
 <a href="vifersouza@gmail.com?subject=Olá!">
