@@ -9,8 +9,9 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" target="_blank">
 </a>
 
-- 👋 Olá, sou Vitor Fernandes de Souza
-- 👨‍💻 Sou um estudante de Engenharia de Software
-- 🔗 Habilidades em JAVA, C, HTML, CSS e JavaScript
-- 📚 Aprendo rapidamente novas tecnologias.
-- 🤝 Pronto para desafios complexos.
+
+👋 Olá! Eu sou Vitor Fernandes de Souza.
+👨‍💻 Atualmente, estou dedicado aos estudos na área de Engenharia de Software.
+🔗 Possuo habilidades nas tecnologias JAVA, C, HTML, CSS, JavaScript e começando a aprender Python.
+📚 Tenho boas habilidades em grupo e facilidade no aprendizado.
+🤝 Estou preparado para enfrentar desafios e contribuir com a minha equipe de forma eficaz.
