@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" target="_blank">
 </a>
 
+
 -👋  Olá! Eu sou Vitor Fernandes de Souza.
 
 -👨‍💻  Atualmente, sou graduando na área de Engenharia de Software.
