@@ -18,6 +18,8 @@
 
 -🤝  Estou sempre preparado para enfrentar novos desafios e contribuir com a minha equipe de forma eficaz.
 
+-💻 Dê uma olhada nos meus projetos mais relevantes, tenho certeza que você vai curtir!
+
 ## Tecnologias que estou aprendendo!
 
 <div style="display: inline_block"><br>
