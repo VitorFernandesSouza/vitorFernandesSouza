@@ -9,8 +9,31 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" target="_blank">
 </a>
 
-👋 - Olá! Eu sou Vitor Fernandes de Souza.
-👨‍💻 - Atualmente, estou dedicado aos estudos na área de Engenharia de Software.
-🔗 - Possuo habilidades nas tecnologias JAVA, C, HTML, CSS, JavaScript e começando a aprender Python.
-📚 - Tenho boas habilidades em grupo e facilidade no aprendizado.
-🤝 - Estou preparado para enfrentar desafios e contribuir com a minha equipe de forma eficaz.
+-👋  Olá! Eu sou Vitor Fernandes de Souza.
+
+-👨‍💻  Atualmente, sou graduando na área de Engenharia de Software.
+
+-📚  Tenho boas habilidades em trabalho em equipe e facilidade no aprendizado.
+
+-🤝  Estou sempre preparado para enfrentar novos desafios e contribuir com a minha equipe de forma eficaz.
+
+##
+
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+
+             
+          
+</div>
+  
