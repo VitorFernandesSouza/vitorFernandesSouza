@@ -5,10 +5,9 @@
 <a href="https://www.linkedin.com/in/vitor-fernandes-b6891123a/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank">  
 </a>  
-<a href="vifersouza@gmail.com?subject=Olá!">
+<a href="mailto:vifersouza@gmail.com?subject=Olá!">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" target="_blank">
 </a>
-
 
 👋 Olá! Eu sou Vitor Fernandes de Souza.
 👨‍💻 Atualmente, estou dedicado aos estudos na área de Engenharia de Software.
