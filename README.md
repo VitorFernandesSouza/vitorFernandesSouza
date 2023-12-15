@@ -18,7 +18,7 @@
 
 -🤝  Estou sempre preparado para enfrentar novos desafios e contribuir com a minha equipe de forma eficaz.
 
-##
+## Tecnologias que estou aprendendo!
 
 <div style="display: inline_block"><br>
   
