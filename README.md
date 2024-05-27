@@ -7,7 +7,7 @@
 </a>  
 <a href="mailto:vifersouza@gmail.com?subject=Olá!">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" target="_blank">
-</a>
+</a><br><br>
 
 
 -👋  Olá! Eu sou Vitor Fernandes de Souza.
