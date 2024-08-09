@@ -1,4 +1,4 @@
-<h1> Bem-vindo! É um prazer te conhecer, eu sou o Vitor.
+<h1> Bem-vindo! Prazer em te conhecer, eu sou o Vitor.
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <a href="https://www.linkedin.com/in/vitor-fernandes-b6891123a/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank">  
 </a>  
