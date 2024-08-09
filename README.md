@@ -16,7 +16,7 @@
   
 - 💻 Explore meus [projetos](https://github.com/VitorFernandesSouza?tab=repositories), tenho certeza que você vai curtir!
 
--  🔗 **Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/vitor-fernandes-b6891123a/)** para colaborarmos e trocarmos experiências!
+-  🔗 **Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/vitor-fernandes-b6891123a/)** para trocarmos experiências!
 
 - ## 📚 Tecnologias que estou aprendendo!
 
