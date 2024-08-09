@@ -10,15 +10,15 @@
 </a><br><br>
 
 
--👋  Olá! Eu sou Vitor Fernandes de Souza.
+### 👋 Olá! Eu sou Vitor Fernandes de Souza.
 
--👨‍💻  Atualmente, sou graduando na área de Engenharia de Software.
-
--📚  Tenho boas habilidades em trabalho em equipe e facilidade no aprendizado.
-
--🤝  Estou sempre preparado para enfrentar novos desafios e contribuir com a minha equipe de forma eficaz.
-
--💻 Dê uma olhada nos meus projetos mais relevantes, tenho certeza que você vai curtir!
+- 🎓 **Graduando em Engenharia de Software**, apaixonado por tecnologia e inovação.
+  
+- 👨‍💻 Tenho experiência em **trabalho em equipe**, **metodologia Scrum**, e entusiasmo em **aprender novas habilidades**.
+  
+- 🤝 Sempre preparado para **enfrentar desafios** e contribuir de forma **eficaz** com minha equipe.
+  
+- 💻 Explore meus [projetos](https://github.com/VitorFernandesSouza?tab=repositories), tenho certeza que você vai curtir!
 
 ---
 
