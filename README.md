@@ -1,7 +1,10 @@
 <h1 align="center">
-  Olá, eu sou o Vitor Fernandes!
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  Olá, eu sou o Vitor Fernandes
 </h1>
+
+<p align="center">
+  <strong>Data Analyst | Data Engineer</strong>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vitor-fernandes-b6891123a/" target="_blank">
@@ -14,62 +17,78 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 🎓 Bacharel em Engenharia de Software pela PUC Minas.
 
-Sou desenvolvedor de software com experiência em desenvolvimento de aplicações, automação de processos e análise de dados. Durante minha trajetória profissional atuei na criação de dashboards, desenvolvimento de soluções em C#, automações em Python, consultas SQL e integração com APIs REST, contribuindo para otimização de processos e apoio à tomada de decisão.
+Atuo na interseção entre **dados, tecnologia e automação**, com experiência em desenvolvimento de soluções, criação de dashboards, consultas SQL, automações em Python e integração com APIs REST.
 
-Atualmente busco oportunidades como **Software Engineer**, com foco em desenvolvimento backend utilizando tecnologias do ecossistema **.NET**.
+Meu foco profissional está em oportunidades de **Análise de Dados e Engenharia de Dados**, buscando transformar dados brutos em informações confiáveis para apoiar análises e decisões de negócio.
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" title="C#"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="48" title=".NET"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" title="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" title="SQL Server"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="48" title="Google Cloud"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" width="48" title="Power BI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" title="C#"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" title="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" title="GitHub"/>
 </p>
 
 ### Principais conhecimentos
 
-- Desenvolvimento de Software
-- C#
-- SQL Server
-- Python
-- Power BI
-- APIs REST
-- Automação de Processos
-- Business Intelligence
-- Análise de Dados
-- Git
+- **SQL** — consultas, transformação e análise de dados
+- **Python** — automação e processamento de dados
+- **Power BI** — dashboards, indicadores e análise de dados
+- **BigQuery** — armazenamento e processamento analítico
+- **Data Warehouse** — modelagem dimensional, fatos e dimensões
+- **ETL / ELT** — preparação e transformação de dados
+- **APIs REST** — integração e consumo de dados
+- **Git / GitHub** — versionamento e organização de projetos
 
 ---
 
-## 📚 Atualmente estudando
+## Projetos em destaque
 
-- ASP.NET Core
-- Entity Framework Core
-- Arquitetura de Software
-- Clean Code
-- SOLID
-- Docker
+### 📊 Data Engineering Project — Olist
+
+Pipeline de dados de e-commerce utilizando **BigQuery e SQL**, com organização em camadas, modelagem dimensional, tabelas fato e dimensão, views analíticas e consumo no **Power BI**.
+
+**Foco:** Data Warehouse · SQL · BigQuery · ETL/ELT · Power BI · Analytics
+
+### 🔎 GitHub Graph Analysis
+
+Aplicação em Python para mineração e análise das interações em repositórios do GitHub utilizando **teoria dos grafos**, métricas de centralidade, detecção de comunidades e exportação para análise no Gephi.
+
+**Foco:** Python · Algoritmos · Análise de Dados · Grafos
+
+### 🤖 AdzHub Harness
+
+Protótipo de arquitetura para coordenação de agentes de IA em investigações que utilizam múltiplas fontes de dados e ferramentas.
+
+**Foco:** IA · Arquitetura · Orquestração · Sistemas de Dados
 
 ---
 
-## 📂 Projetos em destaque
+## O que estou buscando
 
-Aqui você encontrará projetos desenvolvidos durante minha graduação, estudos e projetos pessoais, com foco em desenvolvimento de software, programação orientada a objetos, algoritmos, automação de processos e aplicações utilizando C# e Python.
+Oportunidades como **Analista de Dados** ou **Engenheiro de Dados**, especialmente em posições nas quais eu possa trabalhar com:
 
-Sempre busco aplicar boas práticas de desenvolvimento, organização de código e documentação.
+- análise e transformação de dados;
+- SQL e Python;
+- construção de pipelines;
+- Data Warehouse e modelagem de dados;
+- dashboards e indicadores;
+- automação de processos;
+- integração de diferentes fontes de dados.
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/vitor-fernandes-b6891123a
+- 💼 LinkedIn: https://www.linkedin.com/in/vitor-fernandes-b6891123a/
 - 📧 E-mail: vifersouza@gmail.com
