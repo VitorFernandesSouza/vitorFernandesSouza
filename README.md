@@ -60,19 +60,27 @@ Pipeline de dados de e-commerce utilizando **BigQuery e SQL**, com organização
 
 **Foco:** Data Warehouse · SQL · BigQuery · ETL/ELT · Power BI · Analytics
 
-### 🔎 GitHub Graph Analysis
+---
 
-Aplicação em Python para mineração e análise das interações em repositórios do GitHub utilizando **teoria dos grafos**, métricas de centralidade, detecção de comunidades e exportação para análise no Gephi.
+### 🎵 Event-Driven Music Data Pipeline
 
-**Foco:** Python · Algoritmos · Análise de Dados · Grafos
+Projeto de Engenharia de Dados voltado à construção de um pipeline para organização, tratamento e análise de dados musicais.
+
+O projeto utiliza uma arquitetura organizada em diferentes camadas, separando **dados brutos, processamento, dados curados e consumo analítico**. A estrutura também contempla áreas para validação, testes de qualidade, exploração analítica e futura integração com ferramentas como **DuckDB, dbt e Power BI**.
+
+As fontes de dados previstas incluem datasets relacionados ao **Spotify** e características musicais. Os dados serão adicionados manualmente ao projeto antes da implementação das etapas de ingestão e processamento.
+
+**Foco:** Data Pipeline · ETL/ELT · Data Quality · Python · DuckDB · dbt · Power BI · Data Engineering
+
+**Status:** Em desenvolvimento
+
+---
 
 ### 🤖 AdzHub Harness
 
 Protótipo de arquitetura para coordenação de agentes de IA em investigações que utilizam múltiplas fontes de dados e ferramentas.
 
 **Foco:** IA · Arquitetura · Orquestração · Sistemas de Dados
-
----
 
 ## O que estou buscando
 
